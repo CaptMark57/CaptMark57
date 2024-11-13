@@ -1,0 +1,14 @@
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\bin\Debug\net8.0\HelloFromCSharp.exe
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\bin\Debug\net8.0\HelloFromCSharp.deps.json
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\bin\Debug\net8.0\HelloFromCSharp.runtimeconfig.json
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\bin\Debug\net8.0\HelloFromCSharp.dll
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\bin\Debug\net8.0\HelloFromCSharp.pdb
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net8.0\HelloFromCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net8.0\HelloFromCSharp.AssemblyInfoInputs.cache
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net8.0\HelloFromCSharp.AssemblyInfo.cs
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net8.0\HelloFromCSharp.csproj.CoreCompileInputs.cache
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net8.0\HelloFromCSharp.dll
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net8.0\refint\HelloFromCSharp.dll
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net8.0\HelloFromCSharp.pdb
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net8.0\HelloFromCSharp.genruntimeconfig.cache
+C:\Users\CaptMark57\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net8.0\ref\HelloFromCSharp.dll
